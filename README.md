@@ -48,17 +48,6 @@ It focuses purely on **UI/UX** and **basic form components** without any backend
 
 ---
 
-## 📸 Preview
-
-| Page           | Screenshot |
-|----------------|------------|
-| Register Form  | ![Register Form](path_to_screenshot) |
-| Profile Page   | ![Profile Page](path_to_screenshot) |
-
-> *(You can add screenshots here later if needed.)*
-
----
-
 ## 🔥 Notes
 - No backend or API is connected.
 - No validation logic added (assignment was for UI testing only).
