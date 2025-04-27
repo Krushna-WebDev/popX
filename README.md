@@ -1,4 +1,4 @@
-# 📄 Assignment: Registration Form UI
+# 📄 Assignment: 
 
 ## ✨ Overview
 This project is a **responsive frontend-only** registration form developed as part of a company assignment.  
@@ -57,7 +57,7 @@ It focuses purely on **UI/UX** and **basic form components** without any backend
 ---
 
 ## 👌 Author
-- Developed by: **[Krushna]**
+- Developed by: **Krushna web Dev**
 
 ---
 
